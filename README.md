@@ -9,6 +9,4 @@
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 )](https://www.linkedin.com/in/busenurtopuz/) 
-[<img align="left" alt="linkedin | Gmail" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />][mailto:busenurtopuz99@gmail.com]
-
-
+[![Gmail Badge](https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg")](mailto:busenurtopuz99@gail.com) 
