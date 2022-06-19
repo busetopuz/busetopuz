@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning Swift
-- 
 
 ### 📩 Connect with me:
 
